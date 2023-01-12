@@ -1,0 +1,3 @@
+﻿  WUNSZ.cpp
+C:\AHE\WUNSZ\WUNSZ\WUNSZ\WUNSZ.cpp(53,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  WUNSZ.vcxproj -> C:\AHE\WUNSZ\WUNSZ\x64\Debug\WUNSZ.exe

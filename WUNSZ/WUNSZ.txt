@@ -1,0 +1,12 @@
+1. Podstawa:
+-wąż porusza się
+-wąż wydłuża się po zjedzeniu punktu
+-wąż umiera po ugryzieniu się w ogon
+-punkty spawnują się losowo na mapie
+
+2. Ficzyr:
+-ustawienie poziomów trudności (większa prędkość, regulowany rozmiar mapy)
+-wąż umiera przy zetknięciu ze ścianą, bądź przenosi się na drugą stronę
+-zlicznie punktów
+-ekran pauzy
+-ekran końca gry
